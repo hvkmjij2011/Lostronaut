@@ -22,7 +22,7 @@ yıldız sistemine düşer. Amaç: sıfırdan gelişip yıldızlararası bir gem
 | Dosya | Durum |
 |---|---|
 | `lostranout-linux-x86_64` | Linux Mint 22 üzerinde sınandı (60 FPS, GTX 1650) |
-| `lostranout-android-arm64.apk` | Galaxy A36'da önceki sürüm sınandı; mağara, tehlike ve görsel güncellemeli bu sürüm telefonda henüz denenmedi |
+| `lostranout-android-arm64.apk` | Galaxy A36'da denendi |
 | `lostranout-windows-x86_64.exe` | Çapraz derlendi; bir Windows makinesinde **çalıştırılıp denenmedi** |
 
 ## Oynanış
