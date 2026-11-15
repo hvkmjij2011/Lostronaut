@@ -1,0 +1,11 @@
+[stream] worst 17.5 ms (far 0.0, want 1.0), far rebuilds 0, chunks 822 loaded / 295 meshed / 207 drawn, tasks 12+1
+[stream] worst 9.0 ms (far 0.0, want 0.3), far rebuilds 0, chunks 1578 loaded / 707 meshed / 408 drawn, tasks 12+6
+[stream] worst 1.3 ms (far 0.0, want 0.3), far rebuilds 0, chunks 1899 loaded / 939 meshed / 509 drawn, tasks 0+0
+[stream] worst 4.7 ms (far 4.4, want 0.2), far rebuilds 1, chunks 1929 loaded / 996 meshed / 537 drawn, tasks 0+0
+[stream] worst 0.7 ms (far 0.0, want 0.3), far rebuilds 0, chunks 1983 loaded / 1022 meshed / 551 drawn, tasks 12+4
+[stream] worst 1.1 ms (far 0.0, want 0.4), far rebuilds 0, chunks 2040 loaded / 1061 meshed / 573 drawn, tasks 12+5
+[stream] worst 1.3 ms (far 0.0, want 0.0), far rebuilds 0, chunks 2040 loaded / 1083 meshed / 585 drawn, tasks 0+0
+[stream] worst 0.6 ms (far 0.0, want 0.2), far rebuilds 0, chunks 2038 loaded / 1094 meshed / 591 drawn, tasks 7+4
+[stream] worst 0.7 ms (far 0.0, want 0.2), far rebuilds 0, chunks 1960 loaded / 1148 meshed / 605 drawn, tasks 0+0
+[stream] worst 0.9 ms (far 0.0, want 0.3), far rebuilds 0, chunks 1938 loaded / 1179 meshed / 581 drawn, tasks 0+0
+[stream] worst 0.9 ms (far 0.0, want 0.0), far rebuilds 0, chunks 1935 loaded / 1174 meshed / 580 drawn, tasks 0+0

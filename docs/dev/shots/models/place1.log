@@ -1,0 +1,4 @@
+[bot] t=2.0 fps=54 inv=[(Organic, 40), (IronOre, 40), (CopperOre, 40), (Quartz, 40), (Carbon, 40), (Ice, 40)] soil=10 quest=0 o2=100
+[bot] t=4.0 fps=58 inv=[(Organic, 40), (IronOre, 36), (CopperOre, 38), (Quartz, 40), (Carbon, 40), (Ice, 40)] soil=10 quest=0 o2=100
+[bot] t=6.0 fps=58 inv=[(Organic, 40), (IronOre, 36), (CopperOre, 38), (Quartz, 40), (Carbon, 40), (Ice, 40)] soil=10 quest=0 o2=100
+[bot] t=8.0 fps=56 inv=[(Organic, 40), (IronOre, 36), (CopperOre, 38), (Quartz, 40), (Carbon, 40), (Ice, 40)] soil=10 quest=0 o2=100
